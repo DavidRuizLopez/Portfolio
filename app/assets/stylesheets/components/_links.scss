@@ -1,6 +1,11 @@
 .links {
   color: white;
   text-decoration: none;
+  background-color: #a0389d;
+  padding: 35px;
+  border-radius: 5px;
+  border: 1px solid #a0389;
+  margin-top: 30px;
   &:hover {
     text-decoration: none;
     color: #380036
