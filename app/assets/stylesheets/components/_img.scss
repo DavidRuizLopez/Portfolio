@@ -3,6 +3,10 @@
   width: 32vh;
   object-fit: cover;
   border-radius: 50%;
+  &:hover{
+    height: 35vh;
+    width: 35vh;
+  }
 
 }
 
